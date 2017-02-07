@@ -41,3 +41,36 @@ For the demographic data set: I can’t quite view this yet, but are there any k
 As property values rise, how does that change the demographics of the neighborhoods? What does that look like?  
 
 
+--
+
+## More Questions
+
+1) Based on following data sets: 
+- Building footprints
+- Property valuation and assessment data 
+- 2040_40 projection data set (particularly how New York City Housing Units are projected to increased significantly, about 321,357, in NYC overall). 
+
+What is the density of these units overall and how would the square footage per person change for each demographic (age, income, property value, etc)? And how will this be distributed throughout the city? 
+I assume there will be an overall less square footage per person for middle to lower income people in the future. What are the current building architects doing to combat that? If at all? Also, how many of these units will be affordable and how does the number of affordable units compare to the projected demographic populations that will need them?
+Possible Supplemental Source: NYC Open Data Nyc.gov
+
+
+2) Based on the data sets: 
+- Green infrastructure data / Tree Censuses
+- Population Projection
+- Geospatial information about people’s income, 
+What is the correlation (if any) between people’s economic status and healthier ecological spaces in the city? Are the green spaces unevenly distributed? In assessing healthier ecological spaces, I mean the number of parks, green space, street trees? If they are unevenly distributed, what are the long-term effects of that on the inhabitants?
+Possible Supplemental Source to assess long-term effects of lack of green spaces: Study by UK’s University of Exeter that looked into fives years’ worth of mental  health data for 1064 participants who moved their residence during the study period, in which researchers found that those who moved to urban areas with more surrounding green space showed higher overall mental health scores—meaning that they were happier and had lower levels of anxiety and depression—for the very first year after their relocation compared to the years prior to moving.
+Link: http://pubs.acs.org/doi/full/10.1021/es403688w
+
+
+3) Based on the data sets of: 
+-	Population Projection
+-	Technical/infrastructural data (bike paths, roads, property value, wifi, zoning) 
+-	Ecological Data (Green infrastructure data, Tree Censuses) 
+How will the sound of city change? How does the street sound impact the livelihood of its inhabitants? 
+
+Possible Supplemental Source: 
+NYC Open Data: 311 Noise Complaints https://nycopendata.socrata.com/Social-Services/311-Noise-Complaints-2014/afa6-2qh4/data
+
+
