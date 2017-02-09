@@ -58,7 +58,8 @@ Possible Supplemental Source: NYC Open Data Nyc.gov
 2) Based on the data sets: 
 - Green infrastructure data / Tree Censuses
 - Population Projection
-- Geospatial information about people’s income, 
+- Geospatial information about people’s income
+
 What is the correlation (if any) between people’s economic status and healthier ecological spaces in the city? Are the green spaces unevenly distributed? In assessing healthier ecological spaces, I mean the number of parks, green space, street trees? If they are unevenly distributed, what are the long-term effects of that on the inhabitants?
 Possible Supplemental Source to assess long-term effects of lack of green spaces: Study by UK’s University of Exeter that looked into fives years’ worth of mental  health data for 1064 participants who moved their residence during the study period, in which researchers found that those who moved to urban areas with more surrounding green space showed higher overall mental health scores—meaning that they were happier and had lower levels of anxiety and depression—for the very first year after their relocation compared to the years prior to moving.
 Link: http://pubs.acs.org/doi/full/10.1021/es403688w
@@ -68,6 +69,7 @@ Link: http://pubs.acs.org/doi/full/10.1021/es403688w
 -	Population Projection
 -	Technical/infrastructural data (bike paths, roads, property value, wifi, zoning) 
 -	Ecological Data (Green infrastructure data, Tree Censuses) 
+
 How will the sound of city change? How does the street sound impact the livelihood of its inhabitants? 
 
 Possible Supplemental Source: 
