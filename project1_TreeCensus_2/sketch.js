@@ -295,7 +295,7 @@ function displayStatus() {
 	fill(0); 
 	textSize(20); 
 	textFont("Courier New");
-	textStyle(NORMAL);
+	textStyle(BOLD);
 	text("Health", 906, 160);
 
 // // Bar Length for "Good" Status 
@@ -369,24 +369,24 @@ function displayStatus() {
 
 // Status Header black rule when Health Category is displayed
 	fill(0); 
-	rect (906, 370, 233, 2);
+	rect (906, 370, 231, 2);
 	fill(255); 
 
 
 // Category Status // black bar 
 	fill(0); 
-	rect (900, 341, 245, 40);
+	rect (900, 341, 243, 40);
 
  // Status Header white rule When Status is moused over 
 	fill(255); 
-	rect (906, 370, 233, 2);
+	rect (906, 370, 231, 2);
 
  // Status Header text When Status is moused over 
 
 	fill (255);
 	textSize(20); 
 	textFont("Courier New");
-	textStyle(BOLD);
+	textStyle(NORMAL);
 	text("Status", 906, 365);
 
 // Bar Length for "Alive" Status 
