@@ -89,6 +89,7 @@ function displayHealth() {
 		x = x + 45; 
 
 }
+}
 
 // /*var healthClick = 0; 
 // mouseClicked(); {
