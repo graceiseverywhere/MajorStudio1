@@ -124,7 +124,7 @@ mouseClicked(); {
 // Bar Length for "Good" Status 
 	noStroke(); 
 	fill('#3ae83a'); 
-	rect(900, 190, goodCount*1.5, 20);
+	rect(900, 190, goodCount*1.2, 20);
 
 // Text for "Good" Status 
 	textSize(20); 
@@ -134,14 +134,14 @@ mouseClicked(); {
 	text("Good", 906, 206);
 
 // Text for "Good" Percentage
-	percentGood = Math.round((goodCount/265) *100);
-	fill('#999491'); 
-	text(percentGood+"%",850, 206);
+	// percentGood = Math.round((goodCount/265) *100);
+	// fill('#999491'); 
+	// text(percentGood+"%",850, 206);
 
 // Bar Length for "Fair" Status 
 	noStroke(); 
 	fill(255, 216, 0); 
-	rect(900, 220, fairCount*1.5, 20);
+	rect(900, 220, fairCount*1.2, 20);
 
 // Text for "Fair" Status 
 	textSize(20); 
@@ -151,14 +151,14 @@ mouseClicked(); {
 	text("Fair", 906, 236);
 
 // Text for "Fair" Percentage
-	percentFair = Math.round((fairCount/265) *100);
-	fill('#999491'); 
-	text(percentFair +"%", 850, 236);
+	// percentFair = Math.round((fairCount/265) *100);
+	// fill('#999491'); 
+	// text(percentFair +"%", 850, 236);
 
 // Bar Length for "Poor" Status 
 	noStroke(); 
 	fill('#a54208'); 
-	rect(900, 250, poorCount*1.5, 20);
+	rect(900, 250, poorCount*1.2, 20);
 
 // Text for "Poor" Status 
 	textSize(20); 
@@ -168,15 +168,15 @@ mouseClicked(); {
 	text("Poor", 906, 266);
 
 // Text for "Poor" Percentage
-	percentPoor = Math.round((poorCount/265) *100);
-	fill('#999491'); 
-	text(percentPoor + "%", 850, 266);
+	// percentPoor = Math.round((poorCount/265) *100);
+	// fill('#999491'); 
+	// text(percentPoor + "%", 850, 266);
 
 
 // Bar Length for "NA" Status 
 	noStroke(); 
 	fill('#c4c6c4'); 
-	rect(900, 280, naCount*1.5, 20);
+	rect(900, 280, naCount*1.2, 20);
 
 // Text for "NA" Status 
 	textSize(20); 
@@ -186,9 +186,9 @@ mouseClicked(); {
 	text("Not Available", 906, 296);
 
 // Text for "Not Available" Percentage
-	percentNa = Math.round((naCount/265) *100);
-	fill('#999491'); 
-	text(percentNa + "%", 850, 296);
+	// percentNa = Math.round((naCount/265) *100);
+	// fill('#999491'); 
+	// text(percentNa + "%", 850, 296);
 
 // Status Header black rule when Health Category is displayed
 	fill(0); 
