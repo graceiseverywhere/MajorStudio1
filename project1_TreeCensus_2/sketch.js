@@ -90,166 +90,166 @@ function displayHealth() {
 
 }
 
-/*var healthClick = 0; 
-mouseClicked(); {
-	if(healthClick = 0){
-		// load Health Category
+// /*var healthClick = 0; 
+// mouseClicked(); {
+// 	if(healthClick = 0){
+// 		// load Health Category
 
-		healthClick = 1; 
-	}
-	else {
-		//load Status Category, 
-} 
+// 		healthClick = 1; 
+// 	}
+// 	else {
+// 		//load Status Category, 
+// } 
 
-}
-*/
+// }
+// */
 
-// Health Category black bar that goes on the right 
+// // Health Category black bar that goes on the right 
 	
 
-	fill(0); 
-	rect (900, 135, 240, 40);
+// 	fill(0); 
+// 	rect (900, 135, 240, 40);
 
-// Health Category white bar 
-	fill(255); 
-	rect (906, 165, 228, 2);
-	fill(255); 
+// // Health Category white bar 
+// 	fill(255); 
+// 	rect (906, 165, 228, 2);
+// 	fill(255); 
 
-// Health Category text 
-	textSize(20); 
-	textFont("Courier New");
-	textStyle(NORMAL);
-	text("Health", 906, 160);
+// // Health Category text 
+// 	textSize(20); 
+// 	textFont("Courier New");
+// 	textStyle(NORMAL);
+// 	text("Health", 906, 160);
 
-// Bar Length for "Good" Status 
-	noStroke(); 
-	fill('#3ae83a'); 
-	rect(900, 190, goodCount*1.5, 20);
+// // Bar Length for "Good" Status 
+// 	noStroke(); 
+// 	fill('#3ae83a'); 
+// 	rect(900, 190, goodCount*1.5, 20);
 
-// Text for "Good" Status 
-	textSize(20); 
-	textFont("Courier New");
-	textStyle(NORMAL);
-	fill(0);
-	text("Good", 906, 206);
+// // Text for "Good" Status 
+// 	textSize(20); 
+// 	textFont("Courier New");
+// 	textStyle(NORMAL);
+// 	fill(0);
+// 	text("Good", 906, 206);
 
-// Text for "Good" Percentage
-	// percentGood = Math.round((goodCount/265) *100);
-	// fill('#999491'); 
-	// text(percentGood+"%",850, 206);
+// // Text for "Good" Percentage
+// 	// percentGood = Math.round((goodCount/265) *100);
+// 	// fill('#999491'); 
+// 	// text(percentGood+"%",850, 206);
 
-// Bar Length for "Fair" Status 
-	noStroke(); 
-	fill(255, 216, 0); 
-	rect(900, 220, fairCount*1.5, 20);
+// // Bar Length for "Fair" Status 
+// 	noStroke(); 
+// 	fill(255, 216, 0); 
+// 	rect(900, 220, fairCount*1.5, 20);
 
-// Text for "Fair" Status 
-	textSize(20); 
-	textFont("Courier New");
-	textStyle(NORMAL);
-	fill(0);
-	text("Fair", 906, 236);
+// // Text for "Fair" Status 
+// 	textSize(20); 
+// 	textFont("Courier New");
+// 	textStyle(NORMAL);
+// 	fill(0);
+// 	text("Fair", 906, 236);
 
-// Text for "Fair" Percentage
-	// percentFair = Math.round((fairCount/265) *100);
-	// fill('#999491'); 
-	// text(percentFair +"%", 850, 236);
+// // Text for "Fair" Percentage
+// 	// percentFair = Math.round((fairCount/265) *100);
+// 	// fill('#999491'); 
+// 	// text(percentFair +"%", 850, 236);
 
-// Bar Length for "Poor" Status 
-	noStroke(); 
-	fill('#a54208'); 
-	rect(900, 250, poorCount*1.5, 20);
+// // Bar Length for "Poor" Status 
+// 	noStroke(); 
+// 	fill('#a54208'); 
+// 	rect(900, 250, poorCount*1.5, 20);
 
-// Text for "Poor" Status 
-	textSize(20); 
-	textFont("Courier New");
-	textStyle(NORMAL);
-	fill(0);
-	text("Poor", 906, 266);
+// // Text for "Poor" Status 
+// 	textSize(20); 
+// 	textFont("Courier New");
+// 	textStyle(NORMAL);
+// 	fill(0);
+// 	text("Poor", 906, 266);
 
-// Text for "Poor" Percentage
-	// percentPoor = Math.round((poorCount/265) *100);
-	// fill('#999491'); 
-	// text(percentPoor + "%", 850, 266);
-
-
-// Bar Length for "NA" Status 
-	noStroke(); 
-	fill('#c4c6c4'); 
-	rect(900, 280, naCount*1.5, 20);
-
-// Text for "NA" Status 
-	textSize(20); 
-	textFont("Courier New");
-	textStyle(NORMAL);
-	fill(0);
-	text("Not Available", 906, 296);
-
-// Text for "Not Available" Percentage
-	// percentNa = Math.round((naCount/265) *100);
-	// fill('#999491'); 
-	// text(percentNa + "%", 850, 296);
+// // Text for "Poor" Percentage
+// 	// percentPoor = Math.round((poorCount/265) *100);
+// 	// fill('#999491'); 
+// 	// text(percentPoor + "%", 850, 266);
 
 
-// Status Header black rule when Health Category is displayed
-	fill(0); 
-	rect (906, 370, 228, 2);
-	fill(255); 
+// // Bar Length for "NA" Status 
+// 	noStroke(); 
+// 	fill('#c4c6c4'); 
+// 	rect(900, 280, naCount*1.5, 20);
 
-// Status Header black text when Health Category is displayed
-	fill (0);
-	textSize(20); 
-	textFont("Courier New");
-	textStyle(BOLD);
-	text("Status", 906, 365);
+// // Text for "NA" Status 
+// 	textSize(20); 
+// 	textFont("Courier New");
+// 	textStyle(NORMAL);
+// 	fill(0);
+// 	text("Not Available", 906, 296);
 
-// Text for "Alive" Status when Health Category is displayed
-	textSize(20); 
-	textFont("Courier New");
-	textStyle(NORMAL);
-	fill(0);
-	text("Alive", 906, 411);
+// // Text for "Not Available" Percentage
+// 	// percentNa = Math.round((naCount/265) *100);
+// 	// fill('#999491'); 
+// 	// text(percentNa + "%", 850, 296);
 
 
-// Text for "Dead" Status when Health Category is displayed
-	textSize(20); 
-	textFont("Courier New");
-	textStyle(NORMAL);
-	fill(0);
-	text("Dead", 906, 441);
+// // Status Header black rule when Health Category is displayed
+// 	fill(0); 
+// 	rect (906, 370, 228, 2);
+// 	fill(255); 
 
-// Text for "Stump" Status 
-	textSize(20); 
-	textFont("Courier New");
-	textStyle(NORMAL);
-	fill(0);
-	text("Stump", 906, 471);
+// // Status Header black text when Health Category is displayed
+// 	fill (0);
+// 	textSize(20); 
+// 	textFont("Courier New");
+// 	textStyle(BOLD);
+// 	text("Status", 906, 365);
 
-
-//To make the bar charts use either fairCount*1.5 or map(fairCount, 0, 265, 900, width-80), 
-
-}
-
-
-function draw(){
-
-}
-
-var rectHealth = (900, 135, 240, 40);
+// // Text for "Alive" Status when Health Category is displayed
+// 	textSize(20); 
+// 	textFont("Courier New");
+// 	textStyle(NORMAL);
+// 	fill(0);
+// 	text("Alive", 906, 411);
 
 
-function mouseOver () {
-	 if (mouseX = rectHealth) {
-		displayStatus();
+// // Text for "Dead" Status when Health Category is displayed
+// 	textSize(20); 
+// 	textFont("Courier New");
+// 	textStyle(NORMAL);
+// 	fill(0);
+// 	text("Dead", 906, 441);
 
-}
+// // Text for "Stump" Status 
+// 	textSize(20); 
+// 	textFont("Courier New");
+// 	textStyle(NORMAL);
+// 	fill(0);
+// 	text("Stump", 906, 471);
 
- else if (mouseX < 300){
-	 	displayHealth();
-	void displayStatus
-}
 
-}
+// //To make the bar charts use either fairCount*1.5 or map(fairCount, 0, 265, 900, width-80), 
+
+// }
+
+
+// function draw(){
+
+// }
+
+// var rectHealth = (900, 135, 240, 40);
+
+
+// function mouseOver () {
+// 	 if (mouseX = rectHealth) {
+// 		displayStatus();
+
+// }
+
+//  else if (mouseX < 300){
+// 	 	displayHealth();
+// 	void displayStatus
+// }
+
+// }
 
 
 function displayStatus() {
