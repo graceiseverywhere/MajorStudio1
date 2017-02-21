@@ -369,17 +369,17 @@ function displayStatus() {
 
 // Status Header black rule when Health Category is displayed
 	fill(0); 
-	rect (906, 370, 235, 2);
+	rect (906, 370, 233, 2);
 	fill(255); 
 
 
 // Category Status // black bar 
 	fill(0); 
-	rect (900, 341, 247, 40);
+	rect (900, 341, 245, 40);
 
  // Status Header white rule When Status is moused over 
 	fill(255); 
-	rect (906, 370, 235, 2);
+	rect (906, 370, 233, 2);
 
  // Status Header text When Status is moused over 
 
