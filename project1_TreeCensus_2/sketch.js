@@ -369,17 +369,17 @@ function displayStatus() {
 
 // Status Header black rule when Health Category is displayed
 	fill(0); 
-	rect (906, 370, 228, 2);
+	rect (906, 370, 238, 2);
 	fill(255); 
 
 
 // Category Status // black bar 
 	fill(0); 
-	rect (900, 341, 240, 40);
+	rect (900, 341, 250, 40);
 
  // Status Header white rule When Status is moused over 
 	fill(255); 
-	rect (906, 370, 228, 2);
+	rect (906, 370, 238, 2);
 
  // Status Header text When Status is moused over 
 
@@ -402,7 +402,7 @@ function displayStatus() {
 	text("Alive", 906, 411);
 
 // Text for "Alive" Percentage
-	percentAlive = Math.round((aliveCount/265) *97);
+	percentAlive = Math.round((aliveCount/265) *100);
 	fill('#999491'); 
 	text(percentAlive+"%",850, 411);
 
@@ -419,7 +419,7 @@ function displayStatus() {
 	text("Dead", 906, 441);
 
 // Text for "Dead" Percentage
-	percentDead = Math.round((deadCount/265) *97);
+	percentDead = Math.round((deadCount/265) *100);
 	fill('#999491'); 
 	text(percentDead +"%", 850, 441);
 
@@ -436,7 +436,7 @@ function displayStatus() {
 	text("Stump", 906, 471);
 
 // Text for "Stump" Percentage
-	percentStump = Math.round((stumpCount/265) *97);
+	percentStump = Math.round((stumpCount/265) *100);
 	fill('#999491'); 
 	text(percentStump + "%", 850, 471);
 
