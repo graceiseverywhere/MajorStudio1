@@ -391,7 +391,7 @@ function displayStatus() {
 // Bar Length for "Alive" Status 
 	noStroke(); 
 	fill('#3ae83a'); 
-	rect(900, 395, aliveCount*1.2, 20);
+	rect(900, 395, aliveCount*1.05, 20);
 
 // Text for "Alive" Status 
 	textSize(20); 
@@ -408,7 +408,7 @@ function displayStatus() {
 // Bar Length for "Dead" Status 
 	noStroke(); 
 	fill("red"); 
-	rect(900, 425, deadCount*1.2, 20);
+	rect(900, 425, deadCount*1.05, 20);
 
 // Text for "Dead" Status 
 	textSize(20); 
@@ -425,7 +425,7 @@ function displayStatus() {
 // Bar Length for "Stump" Status 
 	noStroke(); 
 	fill('#8823ed'); 
-	rect(900, 455, stumpCount*1.2, 20);
+	rect(900, 455, stumpCount*1.05, 20);
 
 // Text for "Stump" Status 
 	textSize(20); 
