@@ -391,7 +391,7 @@ function displayStatus() {
 // Bar Length for "Alive" Status 
 	noStroke(); 
 	fill('#3ae83a'); 
-	rect(900, 395, aliveCount*1.05, 20);
+	rect(900, 395, aliveCount*1.0, 20);
 
 // Text for "Alive" Status 
 	textSize(20); 
@@ -401,14 +401,14 @@ function displayStatus() {
 	text("Alive", 906, 411);
 
 // Text for "Alive" Percentage
-	percentAlive = Math.round((aliveCount/265) *100);
+	percentAlive = Math.round((aliveCount/265) *97);
 	fill('#999491'); 
 	text(percentAlive+"%",850, 411);
 
 // Bar Length for "Dead" Status 
 	noStroke(); 
 	fill("red"); 
-	rect(900, 425, deadCount*1.05, 20);
+	rect(900, 425, deadCount*1.0, 20);
 
 // Text for "Dead" Status 
 	textSize(20); 
@@ -418,14 +418,14 @@ function displayStatus() {
 	text("Dead", 906, 441);
 
 // Text for "Dead" Percentage
-	percentDead = Math.round((deadCount/265) *100);
+	percentDead = Math.round((deadCount/265) *97);
 	fill('#999491'); 
 	text(percentDead +"%", 850, 441);
 
 // Bar Length for "Stump" Status 
 	noStroke(); 
 	fill('#8823ed'); 
-	rect(900, 455, stumpCount*1.05, 20);
+	rect(900, 455, stumpCount*1.0, 20);
 
 // Text for "Stump" Status 
 	textSize(20); 
@@ -435,7 +435,7 @@ function displayStatus() {
 	text("Stump", 906, 471);
 
 // Text for "Stump" Percentage
-	percentStump = Math.round((stumpCount/265) *100);
+	percentStump = Math.round((stumpCount/265) *97);
 	fill('#999491'); 
 	text(percentStump + "%", 850, 471);
 
