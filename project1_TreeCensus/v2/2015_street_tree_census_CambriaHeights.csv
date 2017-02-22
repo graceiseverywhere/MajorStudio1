@@ -1,0 +1,265 @@
+FID,tree_id,block_id,status,health,spc_common,NoDamage,address,zipcode,zip_city,boroname,nta_name,boro_ct
+209478,249342,335556,Alive,Poor, , ,119-33 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4061000
+209508,249396,335556,Alive,Good, ,NoDamage,119-24 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4061000
+209509,249397,335557,Alive,Fair,Ginkgo,NoDamage,119-24 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4061000
+209510,249398,335557,Alive,Fair,Ginkgo, ,119-27 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4061000
+209511,249399,335557,Alive,Good, ,NoDamage,119-32 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4061000
+209512,249400,335557,Stump, ,Sawtooth Oak,NoDamage,119-32 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4061000
+209513,249401,335557,Alive,Fair,Sawtooth Oak,NoDamage,119-36 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4061000
+209514,249402,335557,Alive,Fair,Sawtooth Oak,NoDamage,119-36 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4061000
+209515,249403,335558,Alive,Good,Sawtooth Oak, ,119-33 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4061000
+209516,249404,335558,Alive,Fair, , ,119-33 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4061000
+209517,249405,335559,Alive,Good,Norway Maple,NoDamage,220-22 120 AVENUE,11411,Cambria Heights,Queens,Cambria Heights,4061000
+209551,249439,335559,Alive,Fair,Cherry,Damage,221-10 120 AVENUE,11411,Cambria Heights,Queens,Cambria Heights,4061000
+209552,249440,335559,Alive,Good,Norway Maple,NoDamage,120-04 222 STREET,11411,Cambria Heights,Queens,Cambria Heights,4061000
+209553,249441,335559,Dead, ,Norway Maple,NoDamage,120-28 222 STREET,11411,Cambria Heights,Queens,Cambria Heights,4061000
+209555,249453,335559,Alive,Fair,Japanese Zelkova,NoDamage,120-28 222 STREET,11411,Cambria Heights,Queens,Cambria Heights,4061000
+209556,249454,335559,Alive,Good,Silver Maple,Damage,120-31 FRANCIS LEWIS BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4061000
+209640,249554,335559,Alive,Good,Silver Maple,Damage,120-31 FRANCIS LEWIS BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4061000
+209641,249555,335559,Alive,Good,Honeylocust var. inermis,Damage,120-19 FRANCIS LEWIS BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4061000
+209642,249556,335379,Alive,Good,Honeylocust var. inermis,Damage,120-19 FRANCIS LEWIS BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4061000
+209643,249557,335379,Alive,Fair,Honeylocust var. inermis,Damage,120-19 FRANCIS LEWIS BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4061000
+209644,249558,335379,Alive,Fair,Pin Oak,NoDamage,220-10 120 AVENUE,11411,Cambria Heights,Queens,Cambria Heights,4061000
+209645,249559,335532,Alive,Good,Sycamore Maple,Damage,220-10 120 AVENUE,11411,Cambria Heights,Queens,Cambria Heights,4061000
+209646,249560,335532,Alive,Fair,London Planetree,NoDamage,116-34 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4059800
+209647,249561,335532,Alive,Good,Honeylocust var. inermis,NoDamage,116-28 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4059800
+209648,249562,335532,Alive,Fair,Honeylocust var. inermis,NoDamage,116-28 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4059800
+209649,249563,335529,Alive,Good,Honeylocust var. inermis,NoDamage,116-28 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4059800
+209650,249564,335529,Alive,Good,Honeylocust var. inermis,NoDamage,116-25 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4059800
+209651,249565,335529,Alive,Good,Honeylocust var. inermis,NoDamage,116-25 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4059800
+209652,249566,335529,Alive,Good,Honeylocust var. inermis,NoDamage,116-23 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4059800
+209697,249628,335530,Alive,Fair,Honeylocust var. inermis,NoDamage,209-19 116 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4059800
+209698,249629,335530,Alive,Fair,Honeylocust var. inermis,NoDamage,209-19 116 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4059800
+209699,249630,335530,Alive,Fair,Honeylocust var. inermis, ,116-19 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4059800
+209806,249781,335531,Stump, , ,NoDamage,115-100 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4053401
+209807,249782,335531,Alive,Fair,Sophora,NoDamage,115-100 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4053401
+209808,249783,335531,Alive,Good,Sophora,NoDamage,115-98 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4053401
+209809,249784,335531,Alive,Fair,Sophora,NoDamage,115-98 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4053401
+209810,249785,335531,Alive,Fair,Sophora,NoDamage,115-96 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4053401
+209811,249786,335531,Alive,Fair,Sophora,NoDamage,115-94 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4053401
+209812,249787,335634,Alive,Good,Sophora,NoDamage,115-90 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4053401
+209813,249788,335634,Alive,Good,Sophora,NoDamage,115-88 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4053401
+209814,249789,335634,Stump, ,Sophora, ,115-88 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4053401
+209815,249790,335635,Dead, , ,NoDamage,115-86 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4053401
+209816,249791,335636,Alive,Good,Sophora,Damage,115-86 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4053401
+209817,249792,335636,Alive,Good,Mimosa,NoDamage,216-07 115 TERRACE,11411,Cambria Heights,Queens,Cambria Heights,4059800
+209854,249837,335636,Alive,Good,Norway Maple,Damage,216-17 115 TERRACE,11411,Cambria Heights,Queens,Cambria Heights,4059800
+209855,249838,335633,Alive,Fair,Norway Maple,NoDamage,216-20 115 TERRACE,11411,Cambria Heights,Queens,Cambria Heights,4059800
+209907,249904,335633,Alive,Fair,Sweetgum, ,210-06 NASHVILLE BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4053401
+209908,249905,337616,Alive,Poor, ,Damage,115-27 210 STREET,11411,Cambria Heights,Queens,Cambria Heights,4053401
+209909,249906,337616,Stump, ,Red Maple,Damage,115-27 210 STREET,11411,Cambria Heights,Queens,Cambria Heights,4053401
+209910,249907,337616,Alive,Good,Red Maple,NoDamage,210-24 NASHVILLE BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4053401
+209911,249908,337616,Alive,Good,Japanese Zelkova,NoDamage,210-26 NASHVILLE BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4053401
+210033,250086,335646,Alive,Good,Red Maple,NoDamage,210-30 NASHVILLE BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4053401
+210034,250087,335646,Alive,Good,Honeylocust var. inermis,Damage,210-22 115 AVENUE,11411,Cambria Heights,Queens,Cambria Heights,4053401
+210035,250088,335647,Alive,Good,Honeylocust var. inermis, ,210-22 115 AVENUE,11411,Cambria Heights,Queens,Cambria Heights,4053401
+210036,250089,335645,Alive,Good, ,NoDamage,117-34 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4060800
+210037,250090,335645,Alive,Good,Ginkgo,NoDamage,118-30 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4060800
+210038,250091,335645,Alive,Fair,Silver Maple,NoDamage,218-10 119 AVENUE,11411,Cambria Heights,Queens,Cambria Heights,4061000
+210039,250092,335645,Stump, ,Hawthorn,NoDamage,119-28 219 STREET,11411,Cambria Heights,Queens,Cambria Heights,4061000
+210040,250093,335645,Alive,Fair,Hawthorn,NoDamage,119-28 219 STREET,11411,Cambria Heights,Queens,Cambria Heights,4061000
+210041,250094,335645,Alive,Fair,Hawthorn,NoDamage,119-28 219 STREET,11411,Cambria Heights,Queens,Cambria Heights,4061000
+210042,250095,335523,Alive,Good,Eastern Redcedar,NoDamage,119-28 219 STREET,11411,Cambria Heights,Queens,Cambria Heights,4061000
+211362,251775,335523,Alive,Fair,Norway Maple, ,119-24 219 STREET,11411,Cambria Heights,Queens,Cambria Heights,4061000
+211363,251776,337625,Alive,Fair, ,NoDamage,218-19 120 AVENUE,11411,Cambria Heights,Queens,Cambria Heights,4061000
+211364,251777,337625,Alive,Poor,Pin Oak,NoDamage,219-01 120 AVENUE,11411,Cambria Heights,Queens,Cambria Heights,4061000
+211365,251778,337625,Alive,Fair,Pin Oak,NoDamage,219-01 120 AVENUE,11411,Cambria Heights,Queens,Cambria Heights,4061000
+211366,251779,337625,Alive,Poor,Pin Oak,NoDamage,218-19 120 AVENUE,11411,Cambria Heights,Queens,Cambria Heights,4061000
+211367,251780,337625,Alive,Good,Sophora,Damage,119-37 219 STREET,11411,Cambria Heights,Queens,Cambria Heights,4061000
+211368,251781,335524,Stump, ,Sophora,Damage,119-39 218 STREET,11411,Cambria Heights,Queens,Cambria Heights,4061000
+211457,251878,335524,Alive,Poor,Sophora,NoDamage,119-39 218 STREET,11411,Cambria Heights,Queens,Cambria Heights,4061000
+211458,251879,335524,Alive,Fair,Silver Maple,NoDamage,119-31 218 STREET,11411,Cambria Heights,Queens,Cambria Heights,4061000
+211459,251880,335524,Alive,Fair,Japanese Treelilac,NoDamage,118-77 FRANCIS LEWIS BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4060800
+211460,251881,335524,Alive,Fair,Japanese Treelilac,NoDamage,118-69 FRANCIS LEWIS BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4060800
+211461,251882,335524,Alive,Fair,Japanese Treelilac,NoDamage,118-69 FRANCIS LEWIS BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4060800
+211462,251883,335524,Alive,Fair,Japanese Treelilac,NoDamage,118-69 FRANCIS LEWIS BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4060800
+211463,251884,335474,Alive,Good,Japanese Treelilac,NoDamage,118-77 FRANCIS LEWIS BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4060800
+211464,251885,335474,Alive,Good,Callery Pear,NoDamage,223-02 114 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4059000
+211470,251891,335474,Stump, ,Callery Pear,NoDamage,223-10 114 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4059000
+211471,251892,335474,Alive,Good,Pin Oak,NoDamage,223-16 114 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4059000
+211573,252024,335474,Alive,Poor,Callery Pear,NoDamage,223-16 114 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4059000
+211574,252025,335471,Alive,Fair,Callery Pear,NoDamage,118-20 236 STREET,11411,Cambria Heights,Queens,Cambria Heights,4062200
+211575,252026,335482,Alive,Fair,Callery Pear,Damage,118-20 236 STREET,11411,Cambria Heights,Queens,Cambria Heights,4062200
+211576,252027,335482,Alive,Good,Callery Pear,Damage,118-25 236 STREET,11411,Cambria Heights,Queens,Cambria Heights,4062200
+211577,252028,335482,Alive,Fair,Callery Pear,Damage,118-25 236 STREET,11411,Cambria Heights,Queens,Cambria Heights,4062200
+211578,252029,335482,Alive,Fair,Honeylocust var. inermis,NoDamage,118-25 236 STREET,11411,Cambria Heights,Queens,Cambria Heights,4062200
+211579,252030,335482,Alive,Fair,Flowering Dogwood,Damage,118-31 236 STREET,11411,Cambria Heights,Queens,Cambria Heights,4062200
+211580,252031,335482,Alive,Good,Sophora,NoDamage,118-35 236 STREET,11411,Cambria Heights,Queens,Cambria Heights,4062200
+211594,252045,335483,Alive,Good,Sophora,Damage,118-35 236 STREET,11411,Cambria Heights,Queens,Cambria Heights,4062200
+211595,252046,335483,Alive,Fair,Swamp White Oak,NoDamage,118-47 236 STREET,11411,Cambria Heights,Queens,Cambria Heights,4062200
+211596,252047,335483,Alive,Good,Pin Oak,NoDamage,118-47 236 STREET,11411,Cambria Heights,Queens,Cambria Heights,4062200
+211597,252048,335483,Alive,Fair,Pin Oak,NoDamage,118-55 236 STREET,11411,Cambria Heights,Queens,Cambria Heights,4062200
+211608,252078,335483,Alive,Good,Pin Oak,NoDamage,118-55 236 STREET,11411,Cambria Heights,Queens,Cambria Heights,4062200
+211609,252079,335484,Alive,Good,London Planetree,NoDamage,237-17 120 AVENUE,11411,Cambria Heights,Queens,Cambria Heights,4061400
+211610,252080,335484,Alive,Good,London Planetree,NoDamage,237-18 120 AVENUE,11411,Cambria Heights,Queens,Cambria Heights,4061400
+211635,252105,335484,Alive,Good,London Planetree,NoDamage,237-18 120 AVENUE,11411,Cambria Heights,Queens,Cambria Heights,4061400
+211636,252106,335484,Alive,Fair,London Planetree,NoDamage,120-12 238 STREET,11411,Cambria Heights,Queens,Cambria Heights,4061400
+211707,252179,335484,Alive,Good,London Planetree,NoDamage,120-12 238 STREET,11411,Cambria Heights,Queens,Cambria Heights,4061400
+211708,252180,335484,Alive,Good,London Planetree,NoDamage,120-22 238 STREET,11411,Cambria Heights,Queens,Cambria Heights,4061400
+211709,252181,335484,Alive,Good,London Planetree,NoDamage,120-22 238 STREET,11411,Cambria Heights,Queens,Cambria Heights,4061400
+211710,252182,335473,Alive,Good,London Planetree,NoDamage,120-22 238 STREET,11411,Cambria Heights,Queens,Cambria Heights,4061400
+211711,252183,335473,Alive,Good,London Planetree,NoDamage,120-30 238 STREET,11411,Cambria Heights,Queens,Cambria Heights,4061400
+211715,252187,335405,Alive,Good,London Planetree,NoDamage,120-34 238 STREET,11411,Cambria Heights,Queens,Cambria Heights,4061400
+211716,252188,335405,Alive,Good,London Planetree,NoDamage,120-38 238 STREET,11411,Cambria Heights,Queens,Cambria Heights,4061400
+211717,252189,335405,Alive,Good,London Planetree,NoDamage,120-38 238 STREET,11411,Cambria Heights,Queens,Cambria Heights,4061400
+211773,252257,335405,Alive,Good,London Planetree,NoDamage,120-46 238 STREET,11411,Cambria Heights,Queens,Cambria Heights,4061400
+211807,252291,335405,Alive,Fair,Cherry,NoDamage,231-02 115 AVENUE,11411,Cambria Heights,Queens,Cambria Heights,4059400
+211808,252292,335405,Alive,Fair,Cherry,Damage,231-02 115 AVENUE,11411,Cambria Heights,Queens,Cambria Heights,4059400
+211809,252293,335405,Alive,Good,London Planetree,NoDamage,230-01 116 AVENUE,11411,Cambria Heights,Queens,Cambria Heights,4062200
+211810,252294,335402,Alive,Good,Little-Leaf Linden,Damage,231-02 LINDEN BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4062200
+211811,252295,335402,Alive,Good,Little-Leaf Linden,NoDamage,231-10 LINDEN BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4062200
+211812,252296,335402,Alive,Good,Little-Leaf Linden,Damage,231-14 LINDEN BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4062200
+211842,252326,335402,Alive,Fair,Norway Maple,NoDamage,118-56 233 STREET,11411,Cambria Heights,Queens,Cambria Heights,4062200
+211843,252327,335402,Alive,Good,Callery Pear,Damage,118-52 233 STREET,11411,Cambria Heights,Queens,Cambria Heights,4062200
+211844,252328,335402,Alive,Good,Eastern Cottonwood,NoDamage,118-44 233 STREET,11411,Cambria Heights,Queens,Cambria Heights,4062200
+211845,252329,335417,Alive,Good,Cherry,NoDamage,118-20 233 STREET,11411,Cambria Heights,Queens,Cambria Heights,4062200
+211850,252334,335417,Alive,Good,Crepe Myrtle,NoDamage,118-22 230 STREET,11411,Cambria Heights,Queens,Cambria Heights,4060600
+211851,252335,335417,Alive,Good,Sycamore Maple,NoDamage,118-30 230 STREET,11411,Cambria Heights,Queens,Cambria Heights,4060600
+211852,252336,335417,Alive,Good,Cherry,NoDamage,118-42 230 STREET,11411,Cambria Heights,Queens,Cambria Heights,4060600
+211853,252337,335418,Alive,Good,Little-Leaf Linden,NoDamage,118-46 230 STREET,11411,Cambria Heights,Queens,Cambria Heights,4060600
+211854,252338,335418,Alive,Fair,Little-Leaf Linden,NoDamage,118-50 230 STREET,11411,Cambria Heights,Queens,Cambria Heights,4060600
+211855,252339,335418,Alive,Good,Norway Maple,NoDamage,216-55 117 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4060800
+211856,252340,335419,Alive,Good,Flowering Dogwood,Damage,216-45 117 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4060800
+211857,252341,335419,Alive,Fair,Norway Maple,NoDamage,216-37 117 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4060800
+211858,252342,335419,Alive,Good,London Planetree,NoDamage,216-31 117 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4060800
+212402,253064,335419,Alive,Good,London Planetree,Damage,216-27 117 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4060800
+212403,253065,335419,Alive,Fair,London Planetree,NoDamage,216-23 117 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4060800
+212404,253066,335419,Alive,Good,London Planetree,Damage,216-19 117 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4060800
+212405,253067,335404,Alive,Good,London Planetree,Damage,216-15 117 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4060800
+212406,253068,335404,Alive,Good,London Planetree,NoDamage,216-11 117 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4060800
+212407,253069,335404,Alive,Good,Japanese Treelilac,NoDamage,117-19 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4060800
+212408,253070,335404,Alive,Good,Ginkgo,Damage,120-24 219 STREET,11411,Cambria Heights,Queens,Cambria Heights,4061000
+212409,253071,335404,Alive,Good,Silver Linden,Damage,120-24 219 STREET,11411,Cambria Heights,Queens,Cambria Heights,4061000
+212410,253081,335326,Alive,Fair,Sycamore Maple,Damage,120-44 219 STREET,11411,Cambria Heights,Queens,Cambria Heights,4061000
+212411,253082,335326,Stump, ,London Planetree,Damage,114-135 230 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059400
+212412,253083,335326,Alive,Good,Norway Maple,NoDamage,114-135 230 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059400
+212413,253084,335323,Alive,Good,London Planetree,NoDamage,114-124 231 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059400
+212414,253085,335323,Alive,Good,London Planetree, ,114-124 231 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059400
+212419,253096,335323,Alive,Good, ,Damage,114-124 231 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059400
+212420,253097,335323,Stump, ,London Planetree,Damage,228-20 114 TERRACE,11411,Cambria Heights,Queens,Cambria Heights,4059400
+212421,253098,335323,Alive,Good,London Planetree,Damage,114-98 229 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059400
+212422,253099,335323,Alive,Good,London Planetree,Damage,114-102 229 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059400
+212423,253100,335325,Alive,Good,London Planetree,Damage,114-106 229 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059400
+212424,253101,335325,Alive,Fair,London Planetree,NoDamage,114-110 229 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059400
+212427,253113,335325,Alive,Good,London Planetree,Damage,114-114 229 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059400
+212428,253114,335325,Alive,Good,London Planetree,Damage,114-118 229 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059400
+212429,253115,335325,Alive,Fair,London Planetree,Damage,114-126 229 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059400
+212430,253121,335325,Alive,Good,London Planetree,NoDamage,114-126 229 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059400
+212431,253122,335325,Alive,Fair,London Planetree,NoDamage,114-130 229 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059400
+212432,253123,335325,Alive,Good,London Planetree,NoDamage,114-134 229 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059400
+212433,253124,335826,Stump, ,Little-Leaf Linden,NoDamage,227-03 LINDEN BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4060000
+212434,253134,335826,Stump, ,Ginkgo,NoDamage,227-05 LINDEN BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4060000
+212435,253135,335826,Alive,Good,London Planetree,NoDamage,227-07 LINDEN BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4060000
+212436,253136,335826,Alive,Fair,London Planetree,Damage,227-11 LINDEN BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4060000
+212437,253137,335826,Alive,Fair,Little-Leaf Linden,Damage,227-11 LINDEN BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4060000
+212438,253138,335826,Alive,Good,Little-Leaf Linden,Damage,228-01 LINDEN BOULEVARD,11411,Cambria Heights,Queens,Cambria Heights,4060000
+212439,253139,335826,Alive,Good,Red Maple,NoDamage,116-48 229 STREET,11411,Cambria Heights,Queens,Cambria Heights,4060000
+212456,253168,335826,Alive,Good,Silver Linden,Damage,116-44 229 STREET,11411,Cambria Heights,Queens,Cambria Heights,4060000
+212457,253169,335826,Alive,Good,Callery Pear,Damage,116-42 229 STREET,11411,Cambria Heights,Queens,Cambria Heights,4060000
+212482,253211,335826,Alive,Good,Callery Pear,NoDamage,116-38 229 STREET,11411,Cambria Heights,Queens,Cambria Heights,4060000
+212483,253212,335826,Alive,Good,Callery Pear,NoDamage,116-34 229 STREET,11411,Cambria Heights,Queens,Cambria Heights,4060000
+212484,253213,335826,Alive,Good,Callery Pear,Damage,116-30 229 STREET,11411,Cambria Heights,Queens,Cambria Heights,4060000
+212485,253214,335827,Alive,Poor,Callery Pear, ,116-26 229 STREET,11411,Cambria Heights,Queens,Cambria Heights,4060000
+212486,253215,335827,Alive,Fair, ,NoDamage,116-10 229 STREET,11411,Cambria Heights,Queens,Cambria Heights,4060000
+212487,253216,335827,Alive,Good,Sophora,NoDamage,116-10 229 STREET,11411,Cambria Heights,Queens,Cambria Heights,4060000
+212488,253217,335827,Alive,Good,Empress Tree,NoDamage,116-06 229 STREET,11411,Cambria Heights,Queens,Cambria Heights,4060000
+212489,253218,335828,Alive,Good,Crimson King Maple,NoDamage,116-02 229 STREET,11411,Cambria Heights,Queens,Cambria Heights,4060000
+212524,253269,335828,Alive,Good,Callery Pear,Damage,116-02 229 STREET,11411,Cambria Heights,Queens,Cambria Heights,4060000
+212525,253270,335828,Alive,Good,Honeylocust var. inermis,Damage,119-01 223 STREET,11411,Cambria Heights,Queens,Cambria Heights,4061200
+212526,253271,335828,Alive,Good,Honeylocust var. inermis,NoDamage,223-02 119 AVENUE,11411,Cambria Heights,Queens,Cambria Heights,4061200
+212694,253521,335828,Alive,Good,London Planetree,Damage,225-09 119 AVENUE,11411,Cambria Heights,Queens,Cambria Heights,4060600
+212695,253522,335828,Alive,Good,Callery Pear,Damage,225-01 119 AVENUE,11411,Cambria Heights,Queens,Cambria Heights,4060600
+212696,253523,335828,Alive,Good,Callery Pear,Damage,225-01 119 AVENUE,11411,Cambria Heights,Queens,Cambria Heights,4060600
+212697,253524,335828,Alive,Good,Serviceberry,Damage,118-59 224 STREET,11411,Cambria Heights,Queens,Cambria Heights,4060600
+212716,253565,335828,Stump, ,Little-Leaf Linden,NoDamage,118-47 224 STREET,11411,Cambria Heights,Queens,Cambria Heights,4060600
+212717,253566,335828,Alive,Good,Little-Leaf Linden,NoDamage,118-39 224 STREET,11411,Cambria Heights,Queens,Cambria Heights,4060600
+212718,253567,335828,Alive,Good,Magnolia,NoDamage,118-01 224 STREET,11411,Cambria Heights,Queens,Cambria Heights,4060600
+212719,253568,335828,Alive,Good,London Planetree,NoDamage,118-04 222 STREET,11411,Cambria Heights,Queens,Cambria Heights,4060800
+212731,253584,335849,Alive,Good,London Planetree,Damage,221-10 118 AVENUE,11411,Cambria Heights,Queens,Cambria Heights,4060800
+212732,253585,336375,Alive,Fair,London Planetree,Damage,221-10 118 AVENUE,11411,Cambria Heights,Queens,Cambria Heights,4060800
+212733,253586,336375,Alive,Fair,London Planetree, ,115-57 222 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059600
+212759,253618,336375,Alive,Fair, ,NoDamage,115-57 222 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059600
+212760,253619,336375,Alive,Good,Catalpa,Damage,114-71 223 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059000
+212761,253620,336375,Alive,Good,American Linden,Damage,115-58 222 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059600
+212762,253621,336375,Alive,Good,Japanese Zelkova,NoDamage,115-58 222 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059600
+212763,253622,336375,Alive,Good,Little-Leaf Linden,NoDamage,115-58 222 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059600
+212764,253623,336375,Alive,Fair,Green Ash,Damage,221-02 115 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4059600
+212783,253662,336375,Alive,Fair,Little-Leaf Linden,NoDamage,221-02 115 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4059600
+212784,253663,336375,Alive,Good,Green Ash,NoDamage,115-50 221 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059600
+212785,253664,336375,Alive,Fair,Green Ash,NoDamage,115-50 221 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059600
+212786,253668,336375,Alive,Fair,Green Ash,Damage,115-50 221 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059600
+212804,253695,336375,Alive,Fair,Green Ash,NoDamage,115-57 220 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059600
+212805,253696,336375,Alive,Fair,Schubert Cherry,NoDamage,115-57 220 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059600
+212806,253697,336375,Alive,Fair,Little-Leaf Linden,NoDamage,115-57 220 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059600
+212822,253732,336375,Alive,Fair,Japanese Treelilac,NoDamage,114-66 224 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059000
+212823,253733,336375,Alive,Fair,Dawn Redwood,NoDamage,114-44 224 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059000
+212882,253796,336375,Alive,Fair,Dawn Redwood,NoDamage,114-44 224 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059000
+212883,253797,336375,Alive,Good,Dawn Redwood,NoDamage,114-44 224 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059000
+212884,253798,336375,Alive,Poor,Cherry,NoDamage,114-40 224 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059000
+212885,253799,336375,Alive,Good,Cherry,NoDamage,114-38 224 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059000
+212901,253822,336375,Alive,Good,Cherry,NoDamage,114-36 224 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059000
+212902,253823,336375,Alive,Poor,Cherry,NoDamage,114-34 224 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059000
+212905,253826,336375,Alive,Fair,Schubert Cherry,NoDamage,223-20 114 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4059000
+212923,253844,336375,Stump, ,Schubert Cherry,NoDamage,223-20 114 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4059000
+212924,253845,336375,Dead, ,London Planetree,NoDamage,114-54 223 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059000
+212925,253846,336375,Alive,Good,Japanese Zelkova,NoDamage,114-40 223 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059000
+212926,253847,336375,Alive,Good,Japanese Zelkova,NoDamage,114-36 223 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059000
+212927,253848,336375,Alive,Good,Chinese Treelilac,NoDamage,114-32 223 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059000
+212928,253849,336375,Alive,Good,Chinese Treelilac,NoDamage,222-20 114 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4059000
+213341,254368,336375,Alive,Fair,Chinese Treelilac,Damage,222-20 114 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4059000
+213342,254369,335848,Alive,Good,American Linden,Damage,115-58 220 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059800
+213343,254372,335848,Alive,Good,American Linden,NoDamage,219-19 115 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4059800
+213344,254373,335848,Alive,Good,Cornelian Cherry,NoDamage,219-01 115 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4059800
+213345,254374,335848,Alive,Good,Cornelian Cherry,NoDamage,219-01 115 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4059800
+213346,254375,335848,Alive,Fair,Flowering Dogwood,NoDamage,219-01 115 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4059800
+213347,254376,335848,Alive,Good,Cornelian Cherry,NoDamage,115-59 219 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059800
+213358,254388,335848,Alive,Good,Silver Maple, ,223-02 114 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4059000
+213359,254389,335848,Alive,Good, , ,114-39 223 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059000
+213360,254390,335848,Alive,Good, ,NoDamage,114-59 223 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059000
+213361,254391,335848,Alive,Good,Pond Cypress,NoDamage,114-59 223 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059000
+213362,254392,335848,Alive,Good,Pond Cypress,NoDamage,114-59 223 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059000
+213363,254393,334938,Stump, ,Cherry, ,115-58 219 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059800
+213364,254394,334939,Alive,Fair, ,NoDamage,115-58 219 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059800
+213365,254397,334939,Alive,Good,Cherry,NoDamage,115-58 219 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059800
+213366,254398,334939,Alive,Good,American Linden,NoDamage,218-01 115 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4059800
+213367,254399,334938,Alive,Good,London Planetree,NoDamage,218-01 115 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4059800
+213368,254400,334938,Alive,Good,Honeylocust var. inermis,NoDamage,218-01 115 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4059800
+213369,254401,334938,Alive,Poor,Honeylocust var. inermis,NoDamage,218-01 115 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4059800
+213370,254402,334938,Alive,Good,Honeylocust var. inermis,NoDamage,218-01 115 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4059800
+213374,254430,334938,Alive,Fair,Honeylocust var. inermis,NoDamage,115-58 219 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059800
+213375,254431,334938,Alive,Fair,Honeylocust var. inermis,Damage,115-58 219 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059800
+213376,254432,334938,Alive,Good,Norway Maple,Damage,115-60 220 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059800
+213377,254433,334938,Alive,Good,American Linden,NoDamage,114-94 225 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059400
+213378,254434,334937,Alive,Good,Little-Leaf Linden,NoDamage,115-59 220 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059600
+213379,254435,334937,Alive,Poor,Crabapple,NoDamage,220-02 115 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4059600
+213382,254439,334937,Alive,Fair,Little-Leaf Linden,Damage,220-02 115 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4059600
+213383,254440,334937,Alive,Good,London Planetree,Damage,115-64 221 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059600
+213384,254441,334940,Alive,Fair,London Planetree,NoDamage,115-64 221 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059600
+213385,254442,334940,Stump, ,Amur Maple, ,114-85 225 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059400
+213386,254443,334940,Stump, , ,NoDamage,225-17 115 AVENUE,11411,Cambria Heights,Queens,Cambria Heights,4059400
+213387,254467,334940,Alive,Good,Norway Maple,NoDamage,225-17 115 AVENUE,11411,Cambria Heights,Queens,Cambria Heights,4059400
+213388,254468,334940,Stump, ,Norway Maple,NoDamage,225-17 115 AVENUE,11411,Cambria Heights,Queens,Cambria Heights,4059400
+213389,254469,334940,Alive,Poor,Norway Maple,Damage,225-17 115 AVENUE,11411,Cambria Heights,Queens,Cambria Heights,4059400
+213390,254470,334940,Alive,Good,London Planetree,NoDamage,115-62 223 STREET,11411,Cambria Heights,Queens,Cambria Heights,4059600
+213391,254471,334940,Alive,Good,Little-Leaf Linden,NoDamage,222-16 114 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4059000
+213392,254472,334785,Stump, ,Little-Leaf Linden,NoDamage,222-16 114 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4059000
+213393,254473,334785,Alive,Fair,Sophora,NoDamage,222-08 114 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4059000
+213394,254480,334757,Alive,Fair,Cherry,NoDamage,222-04 114 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4059000
+213395,254481,334757,Alive,Good,Cherry,Damage,222-04 114 ROAD,11411,Cambria Heights,Queens,Cambria Heights,4059000
+213403,254502,334757,Alive,Fair,Ginkgo,NoDamage,119-17 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,St. Albans,4038400
+213404,254503,334757,Stump, ,Ginkgo,NoDamage,119-21 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,St. Albans,4038400
+213405,254504,334877,Alive,Good, ,NoDamage,117-15 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,St. Albans,4038400
+213406,254505,334877,Alive,Good,Cherry,NoDamage,117-15 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,St. Albans,4038400
+213407,254506,334877,Alive,Good,Cherry,NoDamage,117-19 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,St. Albans,4038400
+213408,254507,334877,Alive,Good,Cherry,NoDamage,117-19 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,St. Albans,4038400
+213409,254508,334877,Alive,Good,European Hornbeam, ,117-34 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,St. Albans,4038400
+213410,254515,334877,Alive,Good, , ,117-34 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,St. Albans,4038400
+213411,254516,334877,Alive,Good, ,NoDamage,117-34 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,St. Albans,4038400
+213412,254517,334877,Stump, ,Ginkgo,NoDamage,118-16 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,St. Albans,4038400
+213413,254518,334877,Alive,Good,Ginkgo,NoDamage,118-16 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,St. Albans,4038400
+213414,254519,334877,Alive,Poor,Ginkgo,NoDamage,118-16 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,St. Albans,4038400
+213415,254520,334759,Alive,Good,Ginkgo,NoDamage,118-16 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,St. Albans,4038400
+213416,254528,334759,Alive,Good,Ginkgo,NoDamage,118-26 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,St. Albans,4038400
+213417,254529,334878,Alive,Poor,Ginkgo,NoDamage,118-26 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,St. Albans,4038400
+213418,254530,334878,Alive,Good,Ginkgo,NoDamage,118-28 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,St. Albans,4038400
+213419,254531,334878,Alive,Fair,Ginkgo, ,118-30 SPRINGFIELD BOULEVARD,11411,Cambria Heights,Queens,St. Albans,4038400
