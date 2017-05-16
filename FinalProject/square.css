@@ -1,0 +1,271 @@
+.btn {
+    width: 25px;
+    height: 25px;
+    line-height: 25px;
+    text-align: center;
+    border-radius: 3px;
+    box-shadow: 0 0 1px;
+    float: left;
+    margin-right: 5px;
+    color: white;
+    cursor: pointer;
+}
+.btn:hover {
+   background-color: #ccc;
+}
+body { 
+    background-color: black;
+    font: 100 7px/1 'Roboto Mono', monospace;   
+    margin-left: 10px; 
+    color: white;
+    margin-left:50px;
+}
+div.title { display: block;
+        float: left; }
+
+svg {
+   margin-top:70px;
+    border: 1px solid; 
+    margin-right: 23px; 
+}
+
+h2 {
+  font: 100 20px/1 'Roboto', monospace;    
+  color: white;
+  margin-top:30px;
+
+}
+
+h3 {
+  letter-spacing: 0.03em;
+  font: 600 10px/4 'Roboto Mono', monospace;    
+  color: white;
+  top:10px;
+
+}
+#nav {
+  position: fixed;
+  right: 49px;
+  top:10px;
+  letter-spacing: 0.03em;
+  font: 400 10px/3 'Roboto Mono'; 
+  display: inline;     
+  float: right;
+  position: absolute;
+  top: 11.4px;    
+  width: 24.5%;
+  margin: .25%;
+  z-index: 2;
+}
+
+
+/*svg {
+  font: 10px sans-serif;
+}
+
+.background path {
+  fill: none;
+  stroke: #ccc;
+  stroke-opacity: .4;
+  shape-rendering: crispEdges;
+}
+
+.foreground path {
+  fill: none;
+  stroke: steelblue;
+  stroke-opacity: .7;
+}
+
+.brush .extent {
+  fill-opacity: .3;
+  stroke: #fff;
+  shape-rendering: crispEdges;
+}
+
+.axis line,
+.axis path {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.axis text {
+  text-shadow: 0 1px 0 #fff;
+  cursor: move;
+}*/
+
+.boroughsContainer {
+  float:left;
+}
+.intro {
+    margin: 0 auto;
+    width: 500px;
+    /* height: 500px; */
+    display: block;
+    padding-top: 210px;
+    text-align: center;
+}
+.intro h1 {
+  font: 'Roboto'; 
+  font-size:33px;
+}
+.intro h4 {
+  font-size:14px;
+  color:#ccc;
+}
+.intro .instructions {
+  font-size:14px;
+}
+.intro .instructions .important {
+  color:red !important;
+  width:auto !important;
+  height:auto !important;
+  float:none !important;
+  border:none !important;
+  box-shadow: 0 0 0 !important;
+  border-radius: none !important;
+}
+.intro .instructions .important:hover {
+  background:none;
+}
+
+.explore .instructions {
+  float:left;
+  padding-right: 8px;
+}
+
+#chartgraphs{
+  width: 97.1%;
+  display: none;
+}
+
+.boroughlabels {
+    color: white;
+    font-family: 'Roboto';
+    font-size: 18px;
+    top: 70px;
+    line-height: 1;
+    letter-spacing: 0.03em;
+  }
+
+#methods{
+  width: 97.1%;
+  display: none;
+}
+
+.displaytext1 h5 {
+    color: white;
+    font-family: 'Roboto';
+    font-size: 17.3px;
+    top: 4.2px;
+    line-height: 1.2;
+    position: absolute;
+    margin: 0;
+    letter-spacing: 0.03em;
+
+}
+
+.displaytext2 .h6 {
+    color: white;
+    font-family: 'Roboto';
+    font-size: 17.3px;
+    top: 70px;
+    line-height: 1;
+    position: absolute;
+    float: left;
+    margin: 0;
+    letter-spacing: 0.03em;
+
+}
+
+.key .h7 {
+    color: white;
+    font-family: 'Roboto Mono';
+    font-size:11px;
+    top: 27px;
+    line-height: 1;
+    position: absolute;
+    float: left;
+    margin: 0;
+    letter-spacing: 0.03em;
+
+}
+#squarewhite { 
+  width: 7px; 
+  height: 7px; 
+  background: #ffff66; 
+  stroke: none; 
+}
+
+#squarehispanic { 
+  width: 7px; 
+  height: 7px; 
+  background: #ccff66; 
+  stroke: none; 
+
+}
+
+#squareblack { 
+  width: 7px; 
+  height: 7px; 
+  background: #ff6600; 
+  stroke: none; 
+
+}
+
+#squareasian { 
+  width: 7px; 
+  height: 7px; 
+  background: #ccffff; 
+  stroke: none; 
+
+}
+
+
+.h5 {    
+  color: white;
+  font: 70 100px/1 'Roboto'
+  top:70px;
+}
+#square_inside_text{
+  margin-right: -21px;
+}
+#square { 
+  width: 10px; 
+  height: 10px; 
+  background: #ccc; 
+  stroke: none; 
+/*  stroke: 0; 
+*/  }
+
+.text_Queens{
+  font-family: 'Roboto';
+  letter-spacing: 0.07em;
+  left: 391.5px;
+}
+
+.text_Manhattan{
+  font-family: 'Roboto';
+  letter-spacing: 0.07em;
+  left: 686.2px;
+}
+
+.text_Bronx{
+  font-family: 'Roboto';
+  letter-spacing: 0.07em;
+  left: 953.1px;
+}
+
+.text_Staten_Island{
+  font-family: 'Roboto';
+  letter-spacing: 0.07em;
+  left: 1136.5px;
+}
+
+.text_for_tooltipss{
+  font-family: 'Roboto';
+  font-weight: bold;
+  fill: black;
+  font-size:22px; 
+  font-weight: 1000;
+}

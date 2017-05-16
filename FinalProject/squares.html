@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+<!--   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> -->
+<script
+  src="https://code.jquery.com/jquery-3.2.1.min.js"
+  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+  crossorigin="anonymous"></script>
+
+  <link rel="stylesheet" type="text/css" href="square.css">
+<!--   <script type="text/javascript" src="https://d3js.org/d3.v4.min.js"></script>
+ -->
+  <script type="text/javascript" src="d3.min.js"></script>
+
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet"> 
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"> 
+
+  <style>
+  ul li{
+    display: inline;
+  }  
+              
+  </style>
+</head>
+
+<body>
+  <div class="title"> 
+  <h3 height: 20px; width: 200px; class ="h3" letter-spacing: 0.03em; float: left;> A Visualization of NYC Living  </h3> 
+  </div>
+  
+  <div id="nav">
+  <!--     <ul id="buttons">
+ -->      
+    <p class = "h3 explore"> <span class="instructions"> Explore the data   </span>
+    <span class='btn'>1</span>  
+    <span class='btn'>2</span>  
+    <span class='btn'>3</span>  
+    <span class='btn'>4</span>  
+   </p>
+    <!-- <div class='btn'>3</div> -->
+</div>
+
+<div class="intro">
+  <h1>NYC Square Footage Living</h1>
+  <h4>by Grace Martinez</h4>
+  <div class="instructions">
+    <span class="important btn">CLICK</span> to advance
+  </div>
+</div>
+
+
+
+<!-- <h3 id="check">  </h3>
+<h4 id = "displaytext"></h4> -->
+
+<!-- <div id = "d1" style = "margin-top:80px">  
+  <script type="text/javascript" src="squares.js"></script>
+</div> -->
+
+<div class="boroughsContainer"></div>
+
+
+<div class = "displaytext1" float: left; display: inline; top: 25px> <h5> According U.S. Census Bureau there is a total of 3408391323 sq ft of residential living space in all of NYC. Here each <span id="square_inside_text"> <svg id = "square"></svg></span> equals 1398 sq ft. </h5> </div>
+
+<div class = "displaytext2" float: left; display: inline; top: 25px> <p class = "h6" > Here is the racial breakdown of each borough. </p> </div>
+<div id="tooltip_mv">
+  <p id="tooltip_mv_inner"></p>
+</div>
+
+<div class = "key" float: left; display: inline; top: 25px> <p class = "h7"> <span id="square_inside_text"> <svg id = "squarewhite"></svg></span> White     <span id="square_inside_text"> <svg id = "squarehispanic"></svg></span> Hispanic   <span id="square_inside_text"> <svg id = "squareblack"></svg> </span> Black   <span id="square_inside_text"> <svg id = "squareasian"></svg></span id="square_inside_text"> Asian </p> </div>
+</div>
+
+<script type="text/javascript" src="squares.js"></script>
+<div> <img src= "FinalProject_chart.jpg" id="chartgraphs" /> </div>
+<div> <img src= "methods.jpg" id="methods"/> </div>
+
+</body>
+</html>

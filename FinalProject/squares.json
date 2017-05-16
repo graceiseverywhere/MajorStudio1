@@ -1,0 +1,52 @@
+[
+  {
+      "borough": "Brooklyn",
+    "squares": 1021431731,
+    "population": 2508340,
+    "white": 0.4,
+    "hispanic": 0.2,
+    "black": 0.3,
+    "asian": 0.1
+
+  },
+  {
+
+    "borough": "Queens",
+    "squares": 863779558,
+    "population": 2233841,
+    "white": 0.273895501,
+    "hispanic": 0.27606083,
+    "black": 0.175985668,
+    "asian": 0.231079562
+  
+  },
+  {
+      "borough": "Manhattan",
+    "squares": 775749364,
+    "population": 1586698,
+    "white": 0.478047492,
+    "hispanic": 0.25556155,
+    "black": 0.128283391,
+    "asian": 0.111053899
+
+
+  },
+  {  "borough": "Bronx",
+    "squares": 512960913,
+    "population": 1386657,
+    "white": 0.109324801,
+    "hispanic": 0.536312152,
+    "black": 0.304626162,
+    "asian": 0.033575715
+ 
+  },
+  {
+    "borough": "Staten_Island",
+    "squares": 234469757,
+    "population": 469363,
+    "white": 0.640534086,
+    "hispanic": 0.173750381,
+    "black": 0.095706308,
+    "asian": 0.077816104
+  }
+]
