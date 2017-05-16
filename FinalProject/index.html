@@ -1,0 +1,79 @@
+<!doctype html>
+<html>
+
+<body>
+<script
+  src="https://code.jquery.com/jquery-3.2.1.min.js"
+  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+  crossorigin="anonymous"></script>
+  <!--   <script src="jquery.js"></script> -->
+    <script>
+$.get('graphspage.svg', function(data) {
+
+    $(document.body).append(data.documentElement);
+
+
+    $('#activateda').hide();
+    $('#activatedb').hide();
+    $('#activatedc').hide();
+    $('#activatedd').hide();
+    $('#activatede').hide();
+             
+    // $('#buttona').click(function() {
+    // $('#activateda').show();
+    // });
+
+    $('#buttona').hover(
+        function mouseover() {
+    $('#activateda').show();
+    }, 
+        
+        function mouseleave() {
+        $('#activateda').hide();
+    });
+
+    $('#buttonb').hover(
+        function mouseover() {
+    $('#activatedb').show();
+    }, 
+        
+        function mouseleave() {
+        $('#activatedb').hide();
+    });
+
+    $('#buttonc').hover(
+        function mouseover() {
+    $('#activatedc').show();
+    }, 
+        
+        function mouseleave() {
+        $('#activatedc').hide();
+    });
+
+$('#buttond').hover(
+        function mouseover() {
+    $('#activatedd').show();
+    }, 
+        
+        function mouseleave() {
+        $('#activatedd').hide();
+    });
+
+    $('#buttone').hover(
+        function mouseover() {
+    $('#activatede').show();
+    }, 
+        
+        function mouseleave() {
+        $('#activatede').hide();
+    });
+
+  
+
+});
+
+
+    </script>
+</body>
+
+</html>

@@ -21,16 +21,16 @@ var setup = function(squaresBorough, burName,white, hispanic, black, asian, call
          .attr("height",h)
          .attr("class",burName);    
     }
-    numberofsquare = drawSquares(numberofsquare,svg, "#ccc",true,burName);
+    numberofsquare = drawSquares(numberofsquare,svg, "#ccc",true,burName,squaresBorough);
     x=0,y=0;
     var whitesq = numberofsquare*white; 
     var hispanicsq = numberofsquare*hispanic;
     var blacksq = numberofsquare*black;  
     var asiansq = (numberofsquare - whitesq-hispanicsq-blacksq); 
-    drawSquares(whitesq, svg, "#ffff66");
-    drawSquares(hispanicsq, svg, "#ccff66");
-    drawSquares(blacksq, svg, "#ff6600");
-    drawSquares(asiansq, svg, "#ccffff");
+    drawSquares(whitesq, svg, "#ffff66",undefined,undefined,white*squaresBorough);
+    drawSquares(hispanicsq, svg, "#ccff66",undefined,undefined,hispanic*squaresBorough);
+    drawSquares(blacksq, svg, "#ff6600",undefined,undefined,black*squaresBorough);
+    drawSquares(asiansq, svg, "#ccffff",undefined,undefined,asian*squaresBorough);
     
 }
 
@@ -39,7 +39,7 @@ var projectTitle = function(){
 }
 
 
- var drawSquares = function(squarenumber,svgContainer, color, drawFull,burName){
+ var drawSquares = function(squarenumber,svgContainer, color, drawFull,burName,pop){
     var g = svgContainer.append("g");
     var sqCt = 0;
     
@@ -56,32 +56,31 @@ var projectTitle = function(){
 
                      temp.style("fill", color)
                      .style("fill-opacity",0)
+                     .attr("val",pop)
                      .transition()
-                     .delay(i*2)
-                     .duration(2)
+                     .delay(i)
+                     .duration(1)
                      .style("fill-opacity",1);
 
-         temp.on('mouseout',function(){
+         temp.on('mouseover',function(){
 
             d3.select('.text_for_tooltipss').remove();
-            var for_text;
-            data.forEach(function(d){
-                    if(d.borough == burName){
-                        for_text = d.squares;
-                    }
-                })
-            //  if(d3.select(this).style('fill') == "#ffff66"){
-            //     // for_text =  d.white; 
-            //     .text ("white");
-            // }
+            // var for_text;
+            // data.forEach(function(d){
+            //         if(d.borough == burName){
+            //             for_text = d.squares;
+            //         }
+            //     })
+            // //  if(d3.select(this).style('fill') == "#ffff66"){
+            // //     // for_text =  d.white; 
+            // //     .text ("white");
+            // // }
             
             g.append('text')
                 .attr('class','text_for_tooltipss')
                 .attr('x',d3.select(this).attr('x'))
                 .attr('y',d3.select(this).attr('y'))
-                .text(for_text + "sq")
-            
-                
+                .text(parseInt(parseInt(d3.select(this).attr("val"))/1000000) + "ml sq")
          });
 
 
@@ -136,7 +135,6 @@ var drawRaces = function(){
             var hispanicborough = bur["hispanic"]; 
             var blackborough = bur["black"]; 
             var asianborough = bur["asian"]; 
-
             setup(popBurough,bur["borough"],whiteborough,hispanicborough, blackborough, asianborough);
 
         })  
@@ -185,21 +183,90 @@ d3.selectAll(".btn").on("click",function(){
         $(".intro").css("display","none");
         $('.displaytext1').css('display','none');
         $('.displaytext2').css('display','none');
-        $('#chartgraphs').css('display','block');
+        // $('#chartgraphs').css('display','block');
+
+         //////////////////
+$.get('graphspage.svg', function(data) {
+
+    var svg=$(document.body).append(data.documentElement);
+    // svg.style("border","0");
+
+    $('#activateda').hide();
+    $('#activatedb').hide();
+    $('#activatedc').hide();
+    $('#activatedd').hide();
+    $('#activatede').hide();
+             
+    // $('#buttona').click(function() {
+    // $('#activateda').show();
+    // });
+
+    $('#buttona').hover(
+        function mouseover() {
+    $('#activateda').show();
+    }, 
+        
+        function mouseleave() {
+        $('#activateda').hide();
+    });
+
+    $('#buttonb').hover(
+        function mouseover() {
+    $('#activatedb').show();
+    }, 
+        
+        function mouseleave() {
+        $('#activatedb').hide();
+    });
+
+    $('#buttonc').hover(
+        function mouseover() {
+    $('#activatedc').show();
+    }, 
+        
+        function mouseleave() {
+        $('#activatedc').hide();
+    });
+
+$('#buttond').hover(
+        function mouseover() {
+    $('#activatedd').show();
+    }, 
+        
+        function mouseleave() {
+        $('#activatedd').hide();
+    });
+
+    $('#buttone').hover(
+        function mouseover() {
+    $('#activatede').show();
+    }, 
+        
+        function mouseleave() {
+        $('#activatede').hide();
+    });
+
+  
+
+});
+/////////////
         $(".key").hide(); 
 
     }
      else if(val=="4"){
+
         drawRaces();
         $('.boroughsContainer').css('display','none')
         $(".intro").css("display","none");
         $('.displaytext1').css('display','none');
         $('.displaytext2').css('display','none');
+
+
         $('#chartgraphs').css("display","none");
         $('#methods').css('display','block');
         $(".key").hide(); 
 
-    }
+    };
 })
 
 
