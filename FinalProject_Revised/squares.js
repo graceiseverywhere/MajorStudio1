@@ -446,275 +446,275 @@ $.get('boroughs.svg', function(data) {
       var svg=$(document.body).append(data.documentElement);
         // $('#idealbase').fadeto("slow",0.25);
 
-        $('#brooklynwhiteactivate').hide();
-        $('#brooklynafricanactivate').hide();
-        $('#brooklynasianactivate').hide();
-        $('#brooklynotheractivate').hide();
-        $('#brooklynhispanicactivate').hide();
+        $('#brooklynwhiteactivateb').hide();
+        $('#brooklynafricanactivateb').hide();
+        $('#brooklynasianactivateb').hide();
+        $('#brooklynotheractivateb').hide();
+        $('#brooklynhispanicactivateb').hide();
 
-        $('#queenswhiteactivate').hide();
-        $('#queensafricanactivate').hide();
-        $('#queensindianactivate').hide();
-        $('#queensasianactivate').hide();
-        $('#queensotheractivate').hide();
-        $('#queenshispanicactivate').hide();
-
-
-        $('#manhattanwhiteactivate').hide();
-        $('#manhattanafricanactivate').hide();
-        $('#manhattanasianactivate').hide();
-        $('#manhattanotheractivate').hide();
-        $('#manhattanhispanicactivate').hide();
+        $('#queenswhiteactivateb').hide();
+        $('#queensafricanactivateb').hide();
+        $('#queensindianactivateb').hide();
+        $('#queensasianactivateb').hide();
+        $('#queensotheractivateb').hide();
+        $('#queenshispanicactivateb').hide();
 
 
-        $('#bronxwhiteactivate').hide();
-        $('#bronxafricanactivate').hide();
-        $('#bronxindianactivate').hide();
-        $('#bronxasianactivate').hide();
-        $('#bronxotheractivate').hide();
-        $('#bronxhispanicactivate').hide();
+        $('#manhattanwhiteactivateb').hide();
+        $('#manhattanafricanactivateb').hide();
+        $('#manhattanasianactivateb').hide();
+        $('#manhattanotheractivateb').hide();
+        $('#manhattanhispanicactivateb').hide();
 
-        $('#statenwhiteactivate').hide();
-        $('#statenafricanactivate').hide();
-        $('#statenasianactivate').hide();
-        $('#statenotheractivate').hide();
-        $('#statenhispanicactivate').hide();
+
+        $('#bronxwhiteactivateb').hide();
+        $('#bronxafricanactivateb').hide();
+        $('#bronxindianactivateb').hide();
+        $('#bronxasianactivateb').hide();
+        $('#bronxotheractivateb').hide();
+        $('#bronxhispanicactivateb').hide();
+
+        $('#statenwhiteactivateb').hide();
+        $('#statenafricanactivateb').hide();
+        $('#statenasianactivateb').hide();
+        $('#statenotheractivateb').hide();
+        $('#statenhispanicactivateb').hide();
 
 
 //Brooklyn mouse over moves for each race 
-        $('#brooklynwhitebutton').hover(
+        $('#brooklynwhitebuttonb').hover(
             function mouseover() {
-        $('#brooklynwhiteactivate').show();
+        $('#brooklynwhiteactivateb').show();
         }, 
         function mouseleave() {
-        $('#brooklynwhiteactivate').hide();
+        $('#brooklynwhiteactivateb').hide();
         });
 
-        $('#brooklynafricanbutton').hover(
+        $('#brooklynafricanbuttonb').hover(
             function mouseover() {
-        $('#brooklynafricanactivate').show();
+        $('#brooklynafricanactivateb').show();
         }, 
         function mouseleave() {
-        $('#brooklynafricanactivate').hide();
-        });
-
-
-        $('#brooklynasianbutton').hover(
-            function mouseover() {
-        $('#brooklynasianactivate').show();
-        }, 
-        function mouseleave() {
-        $('#brooklynasianactivate').hide();
+        $('#brooklynafricanactivateb').hide();
         });
 
 
-        $('#brooklynotherbutton').hover(
+        $('#brooklynasianbuttonb').hover(
             function mouseover() {
-        $('#brooklynotheractivate').show();
+        $('#brooklynasianactivateb').show();
         }, 
         function mouseleave() {
-        $('#brooklynotheractivate').hide();
+        $('#brooklynasianactivateb').hide();
         });
 
 
-        $('#brooklynhispanicbutton').hover(
+        $('#brooklynotherbuttonb').hover(
+            function mouseover() {
+        $('#brooklynotheractivateb').show();
+        }, 
+        function mouseleave() {
+        $('#brooklynotheractivateb').hide();
+        });
+
+
+        $('#brooklynhispanicbuttonb').hover(
         function mouseover() {
-        $('#brooklynhispanicactivate').show();
+        $('#brooklynhispanicactivateb').show();
         }, 
         function mouseleave() {
-        $('#brooklynhispanicactivate').hide();
+        $('#brooklynhispanicactivateb').hide();
            });
 
         //Queens mouse over moves for each race 
-        $('#queenswhitebutton').hover(
+        $('#queenswhitebuttonb').hover(
             function mouseover() {
-        $('#queenswhiteactivate').show();
+        $('#queenswhiteactivateb').show();
         }, 
         function mouseleave() {
-        $('#queenswhiteactivate').hide();
+        $('#queenswhiteactivateb').hide();
         });
 
-        $('#queensafricanbutton').hover(
+        $('#queensafricanbuttonb').hover(
             function mouseover() {
-        $('#queensafricanactivate').show();
+        $('#queensafricanactivateb').show();
         }, 
         function mouseleave() {
-        $('#queensafricanactivate').hide();
+        $('#queensafricanactivateb').hide();
         });
 
-     $('#queensindianbutton').hover(
+     $('#queensindianbuttonb').hover(
             function mouseover() {
-        $('#queensindianactivate').show();
+        $('#queensindianactivateb').show();
         }, 
         function mouseleave() {
-        $('#queensindianactivate').hide();
+        $('#queensindianactivateb').hide();
         });
 
-        $('#queensasianbutton').hover(
+        $('#queensasianbuttonb').hover(
             function mouseover() {
-        $('#queensasianactivate').show();
+        $('#queensasianactivateb').show();
         }, 
         function mouseleave() {
-        $('#queensasianactivate').hide();
-        });
-
-
-        $('#queensotherbutton').hover(
-            function mouseover() {
-        $('#queensotheractivate').show();
-        }, 
-        function mouseleave() {
-        $('#queensotheractivate').hide();
+        $('#queensasianactivateb').hide();
         });
 
 
-        $('#queenshispanicbutton').hover(
+        $('#queensotherbuttonb').hover(
+            function mouseover() {
+        $('#queensotheractivateb').show();
+        }, 
+        function mouseleave() {
+        $('#queensotheractivateb').hide();
+        });
+
+
+        $('#queenshispanicbuttonb').hover(
         function mouseover() {
-        $('#queenshispanicactivate').show();
+        $('#queenshispanicactivateb').show();
         }, 
         function mouseleave() {
-        $('#queenshispanicactivate').hide();
+        $('#queenshispanicactivateb').hide();
            });
 
 
  //Manhattan mouse over moves for each race 
-        $('#manhattanwhitebutton').hover(
+        $('#manhattanwhitebuttonb').hover(
             function mouseover() {
-        $('#manhattanwhiteactivate').show();
+        $('#manhattanwhiteactivateb').show();
         }, 
         function mouseleave() {
-        $('#manhattanwhiteactivate').hide();
+        $('#manhattanwhiteactivateb').hide();
         });
 
-        $('#manhattanafricanbutton').hover(
+        $('#manhattanafricanbuttonb').hover(
             function mouseover() {
-        $('#manhattanafricanactivate').show();
+        $('#manhattanafricanactivateb').show();
         }, 
         function mouseleave() {
-        $('#manhattanafricanactivate').hide();
-        });
-
-
-        $('#manhattanasianbutton').hover(
-            function mouseover() {
-        $('#manhattanasianactivate').show();
-        }, 
-        function mouseleave() {
-        $('#manhattanasianactivate').hide();
+        $('#manhattanafricanactivateb').hide();
         });
 
 
-        $('#manhattanotherbutton').hover(
+        $('#manhattanasianbuttonb').hover(
             function mouseover() {
-        $('#manhattanotheractivate').show();
+        $('#manhattanasianactivateb').show();
         }, 
         function mouseleave() {
-        $('#manhattanotheractivate').hide();
+        $('#manhattanasianactivateb').hide();
         });
 
 
-        $('#manhattanhispanicbutton').hover(
+        $('#manhattanotherbuttonb').hover(
+            function mouseover() {
+        $('#manhattanotheractivateb').show();
+        }, 
+        function mouseleave() {
+        $('#manhattanotheractivateb').hide();
+        });
+
+
+        $('#manhattanhispanicbuttonb').hover(
         function mouseover() {
-        $('#manhattanhispanicactivate').show();
+        $('#manhattanhispanicactivateb').show();
         }, 
         function mouseleave() {
-        $('#manhattanhispanicactivate').hide();
+        $('#manhattanhispanicactivateb').hide();
            });
 
  //Bronx mouse over moves for each race 
-        $('#bronxwhitebutton').hover(
+        $('#bronxwhitebuttonb').hover(
             function mouseover() {
-        $('#bronxwhiteactivate').show();
+        $('#bronxwhiteactivateb').show();
         }, 
         function mouseleave() {
-        $('#bronxwhiteactivate').hide();
+        $('#bronxwhiteactivateb').hide();
         });
 
-        $('#bronxafricanbutton').hover(
+        $('#bronxafricanbuttonb').hover(
             function mouseover() {
-        $('#bronxafricanactivate').show();
+        $('#bronxafricanactivateb').show();
         }, 
         function mouseleave() {
-        $('#bronxafricanactivate').hide();
+        $('#bronxafricanactivateb').hide();
         });
 
-        $('#bronxindianbutton').hover(
+        $('#bronxindianbuttonb').hover(
             function mouseover() {
-        $('#bronxindianactivate').show();
+        $('#bronxindianactivateb').show();
         }, 
         function mouseleave() {
-        $('#bronxindianactivate').hide();
-        });
-
-
-        $('#bronxasianbutton').hover(
-            function mouseover() {
-        $('#bronxasianactivate').show();
-        }, 
-        function mouseleave() {
-        $('#bronxasianactivate').hide();
+        $('#bronxindianactivateb').hide();
         });
 
 
-        $('#bronxotherbutton').hover(
+        $('#bronxasianbuttonb').hover(
             function mouseover() {
-        $('#bronxotheractivate').show();
+        $('#bronxasianactivateb').show();
         }, 
         function mouseleave() {
-        $('#bronxotheractivate').hide();
+        $('#bronxasianactivateb').hide();
         });
 
 
-        $('#bronxhispanicbutton').hover(
+        $('#bronxotherbuttonb').hover(
+            function mouseover() {
+        $('#bronxotheractivateb').show();
+        }, 
+        function mouseleave() {
+        $('#bronxotheractivateb').hide();
+        });
+
+
+        $('#bronxhispanicbuttonb').hover(
         function mouseover() {
-        $('#bronxhispanicactivate').show();
+        $('#bronxhispanicactivateb').show();
         }, 
         function mouseleave() {
-        $('#bronxhispanicactivate').hide();
+        $('#bronxhispanicactivateb').hide();
            });
 
 //Staten Island mouse over moves for each race 
-        $('#statenwhitebutton').hover(
+        $('#statenwhitebuttonb').hover(
             function mouseover() {
-        $('#statenwhiteactivate').show();
+        $('#statenwhiteactivateb').show();
         }, 
         function mouseleave() {
-        $('#statenwhiteactivate').hide();
+        $('#statenwhiteactivateb').hide();
         });
 
-        $('#statenafricanbutton').hover(
+        $('#statenafricanbuttonb').hover(
             function mouseover() {
-        $('#statenafricanactivate').show();
+        $('#statenafricanactivateb').show();
         }, 
         function mouseleave() {
-        $('#statenafricanactivate').hide();
-        });
-
-
-        $('#statenasianbutton').hover(
-            function mouseover() {
-        $('#statenasianactivate').show();
-        }, 
-        function mouseleave() {
-        $('#statenasianactivate').hide();
+        $('#statenafricanactivateb').hide();
         });
 
 
-        $('#statenotherbutton').hover(
+        $('#statenasianbuttonb').hover(
             function mouseover() {
-        $('#statenotheractivate').show();
+        $('#statenasianactivateb').show();
         }, 
         function mouseleave() {
-        $('#statenotheractivate').hide();
+        $('#statenasianactivateb').hide();
         });
 
 
-        $('#statenhispanicbutton').hover(
+        $('#statenotherbuttonb').hover(
+            function mouseover() {
+        $('#statenotheractivateb').show();
+        }, 
+        function mouseleave() {
+        $('#statenotheractivateb').hide();
+        });
+
+
+        $('#statenhispanicbuttonb').hover(
         function mouseover() {
-        $('#statenhispanicactivate').show();
+        $('#statenhispanicactivateb').show();
         }, 
         function mouseleave() {
-        $('#statenhispanicactivate').hide();
+        $('#statenhispanicactivateb').hide();
            });
   
 
@@ -740,15 +740,14 @@ $.get('boroughs.svg', function(data) {
         // $('#chartgraphs').css('display','block');
 
          //////////////////
-$.get('graphspage.svg', function(data) {
+	$.get('graphspage.svg', function(data) {
+	    var svg=$(document.body).append(data.documentElement);
 
-    var svg=$(document.body).append(data.documentElement);
-
-    $('#activateda').hide();
-    $('#activatedb').hide();
-    $('#activatedc').hide();
-    $('#activatedd').hide();
-    $('#activatede').hide();
+	    $('#activateda').hide();
+	    $('#activatedb').hide();
+	    $('#activatedc').hide();
+	    $('#activatedd').hide();
+	    $('#activatede').hide();
             
 
     $('#buttona').hover(
